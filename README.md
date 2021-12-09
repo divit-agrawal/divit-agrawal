@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 I am **Divit Agrawal** and welcome to my GitHub profile!
-- 🔭 I’m currently working on a games website using react
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on freelance web projects
+- 🌱 I’m learning more about Backend Web Development
 - ✨ I'm interested in MERN stack
-- 👯 I’m looking to collaborate on web development projects
-- 💬 Ask me about how I am learning web development for free
+- 👯 I’m also learning XR Developement
+- 💬 Ask me about how I am learning web development and XR development for free
 - 📫 How to reach me: divitagrawal@gmail.com
-- 😏 Fun fact: I am a start-up enthusiast
+- 😏 Fun fact: I am a start-up enthusiast too!
 
 ### Stats 📈
 
