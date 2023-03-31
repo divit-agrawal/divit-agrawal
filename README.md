@@ -1,4 +1,4 @@
-
+Hi there 👋
 I'm a Pre-Final year student at Vellore Institute of Technology(VIT), Vellore. 
 <img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
