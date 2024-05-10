@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a Pre-Final year student at Vellore Institute of Technology(VIT), Vellore. 
+I'm a Software Engineer. 
 <img src="assets/code.gif" />
 ## &#x1f4c8; GitHub Stats
 ![Divit's github stats](https://github-readme-stats.vercel.app/api?username=divit-agrawal&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
